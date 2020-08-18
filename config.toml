@@ -1,5 +1,5 @@
 # default config
-baseURL = "qiproject.github.io"
+baseURL = ""
 #baseURL = ""
 languageCode = "en-us"
 title = "Nous Studio"
