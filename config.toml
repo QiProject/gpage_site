@@ -1,5 +1,6 @@
 # default config
-baseURL = ""
+baseURL = "qiproject.github.io"
+#baseURL = ""
 languageCode = "en-us"
 title = "Nous Studio"
 theme = "parsa-hugo"
