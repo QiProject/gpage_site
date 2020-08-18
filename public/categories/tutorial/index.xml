@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Nous Studio</title>
+    <link>/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Nous Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 21:13:37 +0800</lastBuildDate>
+    
+	<atom:link href="/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mask 遮罩</title>
+      <link>/ppt1/</link>
+      <pubDate>Tue, 18 Aug 2020 21:13:37 +0800</pubDate>
+      
+      <guid>/ppt1/</guid>
+      <description>範例下載
+ 遮罩是許多進階效果的基石，了解遮罩後也可以在許多其它軟體找到他的身影。
+ 遮罩使用練習  右鍵Slide 背景格式，圖片填充，插入一張圖片作為 PPT 的背景 創建文字，輸入內容。 使用曲線工具，畫出背景與文字重疊部分 選擇曲線繪製的色塊，格式選擇背景填充  </description>
+    </item>
+    
+  </channel>
+</rss>

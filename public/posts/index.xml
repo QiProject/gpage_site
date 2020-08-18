@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nous Studio</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Nous Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 21:10:59 +0800</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ppt1</title>
+      <link>/posts/ppt1/</link>
+      <pubDate>Tue, 18 Aug 2020 21:10:59 +0800</pubDate>
+      
+      <guid>/posts/ppt1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

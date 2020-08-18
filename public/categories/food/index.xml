@@ -1,121 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Food on Parsa Hugo | Personal Blog Template</title>
-    <link>https://examplesite.org/categories/food/</link>
-    <description>Recent content in Food on Parsa Hugo | Personal Blog Template</description>
+    <title>Food on Nous Studio</title>
+    <link>/categories/food/</link>
+    <description>Recent content in Food on Nous Studio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2020 21:13:37 +0800</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/categories/food/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/food/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mask 遮罩</title>
+      <link>/ppt1/</link>
+      <pubDate>Tue, 18 Aug 2020 21:13:37 +0800</pubDate>
+      
+      <guid>/ppt1/</guid>
+      <description>cool
+1.版面，右鍵設置背景格式，選擇圖片填充，插入一張圖片作為 PPT 的背景 2.設置文字 3.使用曲線工具，畫出背景與文字重疊部分 4.選擇曲線繪製的色塊，格式選擇背景填充</description>
+    </item>
+    
+    <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.1/</link>
+      <link>/charming-evening-field.1/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.1/</guid>
+      <guid>/charming-evening-field.1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.10/</link>
+      <link>/charming-evening-field.10/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.10/</guid>
+      <guid>/charming-evening-field.10/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.11/</link>
+      <link>/charming-evening-field.11/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.11/</guid>
+      <guid>/charming-evening-field.11/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.2/</link>
+      <link>/charming-evening-field.2/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.2/</guid>
+      <guid>/charming-evening-field.2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.3/</link>
+      <link>/charming-evening-field.3/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.3/</guid>
+      <guid>/charming-evening-field.3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.4/</link>
+      <link>/charming-evening-field.4/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.4/</guid>
+      <guid>/charming-evening-field.4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.5/</link>
+      <link>/charming-evening-field.5/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.5/</guid>
+      <guid>/charming-evening-field.5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.6/</link>
+      <link>/charming-evening-field.6/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.6/</guid>
+      <guid>/charming-evening-field.6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.7/</link>
+      <link>/charming-evening-field.7/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.7/</guid>
+      <guid>/charming-evening-field.7/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.8/</link>
+      <link>/charming-evening-field.8/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.8/</guid>
+      <guid>/charming-evening-field.8/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field.9/</link>
+      <link>/charming-evening-field.9/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field.9/</guid>
+      <guid>/charming-evening-field.9/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Charming Evening Field</title>
-      <link>https://examplesite.org/charming-evening-field/</link>
+      <link>/charming-evening-field/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/charming-evening-field/</guid>
+      <guid>/charming-evening-field/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
