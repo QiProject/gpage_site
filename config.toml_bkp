@@ -1,0 +1,33 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "parsa"
+layout = "1"
+
+
+# deult parameter
+[params]
+logo = "images/logo.png"
+home = "Home"
+# theme layout ( two layout is available, "1" and "2" )
+layout = "1"
+# Meta data
+description = "This is meta description"
+# Preloader
+preloader = true
+# search
+search = true
+# about author
+author = "Themefisher"
+author_image = "images/banner-img.png"
+bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+# Contact info
+mobile = "+90 000 333 22"
+email = "exmaple@ymail.com"
+address = "6 rip carl Avenue CA 90733"
+# Contact Form Action
+contact_form_action = "#"
+# Google Analitycs
+google_analitycs_id = "Your ID"
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
